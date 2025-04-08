@@ -7,4 +7,5 @@
 - Otros: Git, Linux
 
 🎯 Objetivos Profesionales
+
 Estoy enfocado en seguir desarrollando mis habilidades en desarrollo full-stack y contribuir a proyectos que tengan un impacto positivo. Mi meta es integrarme en equipos dinámicos donde pueda aportar y aprender constantemente.
